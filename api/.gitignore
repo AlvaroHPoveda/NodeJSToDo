@@ -1,0 +1,3 @@
+node_modules
+#Lo comento para que puedan realizar las pruebas
+#*.env
